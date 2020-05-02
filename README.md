@@ -1,2 +1,3 @@
 # Leikforr-5
-![einhunn](/quiz1.png)
+![einkunn](/quiz1.png)
+![einkunn](/quiz2.png)
