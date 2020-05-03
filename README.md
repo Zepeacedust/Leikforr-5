@@ -1,3 +1,5 @@
 # Leikforr-5
-![einkunn](/quiz1.png)
-![einkunn](/quiz2.png)
+![einkunn](/pictures/quiz1.png)
+![einkunn](/pictures/quiz2.png)
+![einkunn](/pictures/quiz3.png)
+
